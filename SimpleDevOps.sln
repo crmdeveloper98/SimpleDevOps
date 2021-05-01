@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDevOps", "SimpleDevOps\SimpleDevOps.csproj", "{BBD7E040-0CC3-45C9-9E17-0D090219FC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDevOps.Tests", "SimpleDevOps.Tests\SimpleDevOps.Tests.csproj", "{C176E473-0ECC-4E6F-BC7E-1DCEE88FE005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD7E040-0CC3-45C9-9E17-0D090219FC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD7E040-0CC3-45C9-9E17-0D090219FC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD7E040-0CC3-45C9-9E17-0D090219FC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD7E040-0CC3-45C9-9E17-0D090219FC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C176E473-0ECC-4E6F-BC7E-1DCEE88FE005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C176E473-0ECC-4E6F-BC7E-1DCEE88FE005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C176E473-0ECC-4E6F-BC7E-1DCEE88FE005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C176E473-0ECC-4E6F-BC7E-1DCEE88FE005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8712AE07-B4A2-4EFB-B803-DE7B401B2F5B}
+	EndGlobalSection
+EndGlobal
